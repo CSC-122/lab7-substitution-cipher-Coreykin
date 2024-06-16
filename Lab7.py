@@ -1,6 +1,6 @@
 # CSC 122
 # Substitution Cipher
-# By <Your Name>
+# By <Corey Kinsey>
 
 """
 Inputs, Processes, Outputs (IOP)
